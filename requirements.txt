@@ -1,0 +1,22 @@
+# FastAPI and ASGI server
+fastapi
+uvicorn
+
+# ORM and Database
+sqlalchemy
+psycopg2-binary
+
+# Data Validation and Security
+pydantic
+bcrypt
+python-jose
+
+# Supabase Integration
+supabase
+
+# Environment Variable Management
+python-dotenv
+
+# Testing and Formatting (Optional but Recommended)
+pytest
+black
